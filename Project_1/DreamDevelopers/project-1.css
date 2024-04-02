@@ -1,0 +1,72 @@
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.div1 {
+    float: left;
+}
+
+img {
+    float: left;
+    width: 50%;
+}
+
+.div2 {
+    float: left;
+    font-size: large;
+    width: 50%;
+}
+.div3{
+    float: left;
+    font-size: large;
+    color: skyblue;
+}
+
+.div4 {
+    float: left;
+
+}
+
+.chess {
+    width: 50%;
+    float: left;
+}
+.div5{
+
+ 
+}
+.div6{
+    
+    color: skyblue;
+}
+.div7{
+
+}
+.div8{
+
+    color: skyblue;
+}
+.float{
+    float: left;
+}
+
+.car-background{
+ width: 200%;
+}
+
+.text{
+
+text-align: center;
+
+}
+
+.container{
+    width: 1000px;
+    margin: 0 auto;
+}
+
+*{
+    box-sizing: border-box;
+}
